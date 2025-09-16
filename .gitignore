@@ -1,0 +1,64 @@
+# ---- Node ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ---- Environment ----
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ---- Logs ----
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# ---- Runtime Data ----
+coverage/
+*.lcov
+
+# ---- OS/System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Build / Dist ----
+build/
+dist/
+.cache/
+.next/
+out/
+.temp/
+.tmp/
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ---- Testing ----
+jest-cache/
+jest-coverage/
+cypress/videos/
+cypress/screenshots/
+
+# ---- MongoDB ----
+*.pem
+dump/
+
+# ---- Misc ----
+*.tgz
+*.zip
+*.tar
