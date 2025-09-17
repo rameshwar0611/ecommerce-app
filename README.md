@@ -27,11 +27,14 @@ Designed to showcase end-to-end full-stack development skills with a modern UI a
 | Authentication | JWT (JSON Web Tokens)                    |
 
 📂 Project Structure
+
 ecommerce-app/
-│
-├── client/        # React frontend
-├── server/        # Node/Express backend
-└── README.md      # Project documentation
+
+client/ → React frontend
+
+server/ → Node/Express backend
+
+README.md → Project documentation
 
 
 
