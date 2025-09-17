@@ -10,7 +10,7 @@ import {
 
 const router = express.Router();
 
-// routes
+//routes
 // create category
 router.post(
   "/create-category",
